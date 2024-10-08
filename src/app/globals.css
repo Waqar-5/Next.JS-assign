@@ -1,0 +1,22 @@
+.Name {
+  color: black;
+  width: auto;
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+  background-color: rgb(142, 243, 209);
+  
+}
+a:hover{
+  color:purple
+}
+a {
+  font-weight: 500;
+  color: #202ae6;
+  text-decoration: inherit;
+  border: red;
+  border-radius: 8px;
+}
+.Live {
+  text-align: center;
+}
+
